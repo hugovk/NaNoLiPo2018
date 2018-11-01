@@ -27,7 +27,7 @@ python3 woof.py --translation pg2701.txt > woof-x2-pg2701.txt
 
 ### Output
 
-| Original                                                                     |                        meow                        |  words |                     with translation                    |  words |
+| Original                                                                     |                        woof                        |  words |                     with translation                    |  words |
 |------------------------------------------------------------------------------|:--------------------------------------------------:|:------:|:-------------------------------------------------------:|:------:|
 | [*Moby Dick; or The Whale*, by Herman Melville](../data/pg2701.txt?raw=true)                   |  [txt](woof-pg2701.txt?raw=true) [pdf]( woof-pg2701.pdf?raw=true)  | 215,136 |  [txt](woof-x2-pg2701.txt?raw=true) [pdf](woof-x2-pg2701.pdf?raw=true)  | 430,272 |
 
