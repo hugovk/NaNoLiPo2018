@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 Replace all words with meows, preserving punctuation.
 
@@ -99,12 +99,11 @@ if __name__ == "__main__":
     )
     args = parser.parse_args()
 
-    # for line in fileinput.input(openhook=fileinput.hook_encoded("utf-8")):
     for line in args.infile:
-        line = line.decode("utf-8-sig").rstrip()  # No BOM
+        line = line.rstrip()
         if args.translation:
             print()
-            print(line.encode("utf-8"))
-        print(meow_meow(line, meow).encode("utf-8"))
+            print(line)
+        print(meow_meow(line, meow))
 
 # End of file
