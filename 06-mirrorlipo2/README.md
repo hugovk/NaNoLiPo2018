@@ -4,14 +4,13 @@
 
 ATTEmpT no. II.
 
-WE ExcluDE of *MoBY Dick* EAcH *line* wiTH A BAnnED lETTAH (AnD ExcluDE THE BlAnk line,
+WE ExcluDE of *MoBY Dick* EAcH *line* wiTH A BAnnED lETTAH (AnD ExcluDE THE BlAnk,
 THEY A BiT DUll).
 
 ### LOOK
 
 ```console
-cat 
-...
+cat dereflectify.sh
 ```
 
 ```bash
