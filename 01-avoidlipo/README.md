@@ -12,7 +12,7 @@ And we all know a word not containing "e"s.
 
 Here is my entry for [NaNoGenMo 2014](https://github.com/dariusk/NaNoGenMo-2014/),
 [*50,000 Meows*](https://github.com/hugovk/meow.py) refactored (copied and pasted) into
-[*50,000 Woofs*](https://github.com/hugovk/meow.py) (including unit tests).
+*50,000 Woofs* (including unit tests).
 
 ### Usage
 
